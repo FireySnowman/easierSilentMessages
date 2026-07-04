@@ -1,2 +1,1 @@
-# easierSilentMessages
-Automatically adds "@silent" to the start of your next message after you send an @silent message.
+Installation instructions are available in the [Vencord](https://vencord.dev/) [Discord server](https://discord.gg/D9uwnFnqmd) in [this post](https://discord.com/channels/1015060230222131221/1257038407503446176)
